@@ -9,7 +9,7 @@ package modul5_kelompok29;
  *
  * @author Thoshiba
  */
-
+//zul elek
 
 public class Mobil {
 public String merkMobil;
